@@ -1,0 +1,16 @@
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\bin\Debug\net5.0\CreditPaymentSystem.Application.deps.json
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\bin\Debug\net5.0\CreditPaymentSystem.Application.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\bin\Debug\net5.0\CreditPaymentSystem.Application.pdb
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\bin\Debug\net5.0\CreditPaymentSystem.Domain.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\bin\Debug\net5.0\CreditPaymentSystem.Domain.pdb
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.csproj.AssemblyReference.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.AssemblyInfoInputs.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.AssemblyInfo.cs
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.sourcelink.json
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPa.02378971.Up2Date
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\refint\CreditPaymentSystem.Application.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\CreditPaymentSystem.Application.pdb
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Application\obj\Debug\net5.0\ref\CreditPaymentSystem.Application.dll

@@ -1,0 +1,13 @@
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\bin\Debug\net5.0\CreditPaymentSystem.Domain.deps.json
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\bin\Debug\net5.0\CreditPaymentSystem.Domain.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\bin\Debug\net5.0\CreditPaymentSystem.Domain.pdb
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.AssemblyInfo.cs
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.sourcelink.json
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\refint\CreditPaymentSystem.Domain.dll
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\CreditPaymentSystem.Domain.pdb
+C:\Users\kpart\source\repos\clean-architecture\societe-generale\Src\Services\CreditPaymentSystem\Core\CreditPaymentSystem.Domain\obj\Debug\net5.0\ref\CreditPaymentSystem.Domain.dll

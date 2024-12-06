@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VKBLCJJ01uY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kpart\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\kpart\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\kpart\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

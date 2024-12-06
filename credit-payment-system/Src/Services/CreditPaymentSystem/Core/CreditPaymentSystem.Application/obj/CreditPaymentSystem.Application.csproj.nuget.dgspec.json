@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Application\\CreditPaymentSystem.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Application\\CreditPaymentSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Application\\CreditPaymentSystem.Application.csproj",
+        "projectName": "CreditPaymentSystem.Application",
+        "projectPath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Application\\CreditPaymentSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\kpart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kpart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj",
+        "projectName": "CreditPaymentSystem.Domain",
+        "projectPath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\CreditPaymentSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\kpart\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kpart\\source\\repos\\clean-architecture\\credit-payment-system\\Src\\Services\\CreditPaymentSystem\\Core\\CreditPaymentSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kpart\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
